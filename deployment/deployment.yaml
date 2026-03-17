@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: titanic
-        image: mateomorin/mise_en_prod_ds-application:latest
+        image: mateomorin/mise_en_prod_DS-application:latest
         ports:
         - containerPort: 8000
         env:

@@ -5,7 +5,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/mateomorin/mide_en_prod_ds-application-deployment.git
+    repoURL: https://github.com/mateomorin/mide_en_prod_DS-application-deployment.git
     targetRevision: main
     path: deployment
   destination:
